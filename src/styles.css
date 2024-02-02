@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+/* CSS Reset */
+
+/* Remove default margin and padding */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {    
+    
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(6,5,80,1) 11%, rgba(9,9,121,1) 91%, rgba(0,212,255,1) 100%);
+}
+  
