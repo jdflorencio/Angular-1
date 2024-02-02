@@ -9,11 +9,12 @@
     align-items: center;
     justify-content: center;
     background-color: hwb(0 5% 95% / 0.512);
-    color: white !important;
+    color: white ;
     font-size: 12px;
     font-family: "Segoe UI";
     font-weight: bold ;
     height: 40px;
     padding: 0px 50px;
+
 
 }

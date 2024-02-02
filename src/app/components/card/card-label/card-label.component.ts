@@ -7,5 +7,5 @@ import { Component, Input } from '@angular/core';
 })
 export class CardLabelComponent {
 
-  @Input() gameLabel: string = '';
+  @Input() gameLabel: string = 'aqui';
 }
